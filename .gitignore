@@ -1,2 +1,3 @@
 /public/
 .firebaserc
+package-lock.json
