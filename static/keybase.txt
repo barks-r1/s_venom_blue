@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/zmey
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://s.venom.blue
+  * I am zmey (https://keybase.io/zmey) on keybase.
+  * I have a public key ASDfJyBlSsdDivny5BpntCaPEEuYFEbN1YKHcu9S_l02EQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120df2720654ac7438af9f2e41a67b4268f104b981446cdd5828772ef52fe5d36110a",
+      "host": "keybase.io",
+      "kid": "0120df2720654ac7438af9f2e41a67b4268f104b981446cdd5828772ef52fe5d36110a",
+      "uid": "a7b8c44c7e9565aa00b98961b8c9fc19",
+      "username": "zmey"
+    },
+    "merkle_root": {
+      "ctime": 1514908550,
+      "hash": "50b2259a7c7a84ec0aa03b391c0da28581b3c30bb4e59b25e381c5cf535cf3c0a7de82b92bb0abd88c75a00a171799828e94ffbf208fa35c24364d6cf42a3203",
+      "hash_meta": "65869975da5ae97abe68ab6d34109e8a094da66f5841f5157adbb1e71bd3b8fb",
+      "seqno": 1878034
+    },
+    "service": {
+      "hostname": "s.venom.blue",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.38"
+  },
+  "ctime": 1514908586,
+  "expire_in": 504576000,
+  "prev": "a19639d3dcda185d9ad29569beee9d00989f4dfdf81b639279e1b832ef057c0c",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg3ycgZUrHQ4r58uQaZ7QmjxBLmBRGzdWCh3LvUv5dNhEKp3BheWxvYWTFA0F7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZGYyNzIwNjU0YWM3NDM4YWY5ZjJlNDFhNjdiNDI2OGYxMDRiOTgxNDQ2Y2RkNTgyODc3MmVmNTJmZTVkMzYxMTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZGYyNzIwNjU0YWM3NDM4YWY5ZjJlNDFhNjdiNDI2OGYxMDRiOTgxNDQ2Y2RkNTgyODc3MmVmNTJmZTVkMzYxMTBhIiwidWlkIjoiYTdiOGM0NGM3ZTk1NjVhYTAwYjk4OTYxYjhjOWZjMTkiLCJ1c2VybmFtZSI6InptZXkifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MTQ5MDg1NTAsImhhc2giOiI1MGIyMjU5YTdjN2E4NGVjMGFhMDNiMzkxYzBkYTI4NTgxYjNjMzBiYjRlNTliMjVlMzgxYzVjZjUzNWNmM2MwYTdkZTgyYjkyYmIwYWJkODhjNzVhMDBhMTcxNzk5ODI4ZTk0ZmZiZjIwOGZhMzVjMjQzNjRkNmNmNDJhMzIwMyIsImhhc2hfbWV0YSI6IjY1ODY5OTc1ZGE1YWU5N2FiZTY4YWI2ZDM0MTA5ZThhMDk0ZGE2NmY1ODQxZjUxNTdhZGJiMWU3MWJkM2I4ZmIiLCJzZXFubyI6MTg3ODAzNH0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJzLnZlbm9tLmJsdWUiLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zOCJ9LCJjdGltZSI6MTUxNDkwODU4NiwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJhMTk2MzlkM2RjZGExODVkOWFkMjk1NjliZWVlOWQwMDk4OWY0ZGZkZjgxYjYzOTI3OWUxYjgzMmVmMDU3YzBjIiwic2Vxbm8iOjE5LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQFXuRpkUMwIihK9TBW4VrFR0xponqiajKAzqxdbr6IcEUdQLezBfpjSaYMfAyZVVe8dTE5HZ0VP7R+dowH6dPQOoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCA/xP+65FbO3ZcbP7v4GYQbMSY+zBxhP3AGUb3feuWkVqN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/zmey
+
+==================================================================
