@@ -1,6 +1,9 @@
 baseURL = "https://s.venom.blue/"
 hasCJKLanguage = true
-languageCode = "jp"
+languageCode = "ja-jp"
 title = "s.venom.blue"
 theme = "hugo_theme_robust"
 enableGitInfo = true
+
+[params.author]
+  description = '<p>Gitの練習もかねて作っています。hugoの設定やMarkdownの原本は<a href="https://github.com/barks-r1/s_venom_blue">https://github.com/barks-r1/s_venom_blue</a>にあります。</p>'
