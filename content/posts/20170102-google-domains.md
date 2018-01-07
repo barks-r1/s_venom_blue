@@ -16,3 +16,6 @@ draft: false
 {{< figure src="/media/2018-01-03/google-domains.png" title="連絡先設定時の警告">}}
 
 結局Google Domainsはあきらめてvalue-domains+CloudFlareのDNSサービスを引き続き使うことにしました。
+
+# 追記
+このサイトはgithubへのpushをトリガーにして、[Netlify](https://www.netlify.com/)でhugoビルドされ、自動的にアップロードされるようになっています。Netlify自体がCDN機能を持つので、このサイトではCloudflareを使わず、権威DNSサービスを含めNetlifyで運用しています。
