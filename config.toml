@@ -2,7 +2,7 @@ baseURL = "https://s.venom.blue/"
 hasCJKLanguage = true
 languageCode = "ja-jp"
 title = "s.venom.blue"
-theme = "hugo_theme_robust"
+theme = "hugo_theme_robust_with_type_kit"
 enableGitInfo = true
 
 [params]
