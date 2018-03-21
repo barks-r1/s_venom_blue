@@ -6,8 +6,9 @@ theme = "hugo_theme_robust"
 enableGitInfo = true
 
 [params]
- googlefonts = "https://fonts.googleapis.com/css?family=Carme" # Optional, Include google fonts.
- fontfamily = "Carme,YuGothic,'Hiragino Kaku Gothic Pro',Meiryo,sans-serif" # Optional, Override body font family.
+ typekit = "https://use.typekit.net/jfw5let.css"
+ #googlefonts = "https://fonts.googleapis.com/css?family=Carme" # Optional, Include google fonts.
+ fontfamily = "museo-sans,YuGothic,'Hiragino Kaku Gothic Pro',Meiryo,sans-serif" # Optional, Override body font family.
 
 [params.author]
   description = '<p>Gitの練習もかねて作っています。hugoの設定やMarkdownの原本は<a href="https://github.com/barks-r1/s_venom_blue">https://github.com/barks-r1/s_venom_blue</a>にあります。</p>'
