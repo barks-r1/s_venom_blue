@@ -1,6 +1,3 @@
-[submodule "themes/gohugo-theme-ananke"]
-	path = themes/gohugo-theme-ananke
-	url = https://github.com/budparr/gohugo-theme-ananke.git
-[submodule "themes/hugo_theme_robust"]
-	path = themes/hugo_theme_robust
-	url = https://github.com/dim0627/hugo_theme_robust.git
+[submodule "themes/hugo_theme_robust_with_typekit"]
+	path = themes/hugo_theme_robust_with_typekit
+	url = git@github.com:barks-r1/hugo_theme_robust_with_typekit.git
